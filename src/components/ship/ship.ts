@@ -12,8 +12,5 @@ export default function createShips() {
     shipGraphics.x =900;
     shipGraphics.y = 250;
 
-    return shipGraphics
-   
-    
-   
+    return shipGraphics   
 }
